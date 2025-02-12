@@ -259,4 +259,3 @@ if __name__ == "__main__":
     print("Acesse http://localhost:8000/clientes para ver os clientes")
     httpd.serve_forever()
 
-if dijwoedfioe
