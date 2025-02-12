@@ -258,3 +258,5 @@ if __name__ == "__main__":
     print("Servidor rodando em http://localhost:8000")
     print("Acesse http://localhost:8000/clientes para ver os clientes")
     httpd.serve_forever()
+
+if dijwoedfioe
